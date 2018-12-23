@@ -1,0 +1,9 @@
+[submodule "libraries/u8g2"]
+	path = libraries/u8g2
+	url = https://github.com/olikraus/u8g2/
+[submodule "libraries/BME280"]
+	path = libraries/BME280
+	url = https://github.com/Seeed-Studio/Grove_BME280
+[submodule "libraries/RTC"]
+	path = libraries/RTC
+	url = https://github.com/Makuna/Rtc
